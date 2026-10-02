@@ -668,7 +668,6 @@ local aggWords = {
     "DJ",
     "RR",
     "CTX",
-    "BMC",
     "CSK",
     "AFK",
     "RO",
@@ -681,9 +680,7 @@ local aggWords = {
     "XD",
     "LOP",
     "BOX",
-    "SAT",
     "LDC",
-    "NAP",
     "SKL",
 
 }
